@@ -1,4 +1,4 @@
-## bitxor-datanet-service-typescript-fetch-client@1.0.1
+## bitxor-datanet-service-typescript-fetch-client@1.0.1t
 
 This generator creates TypeScript/JavaScript client that utilizes [Fetch API](https://fetch.spec.whatwg.org/). The generated Node module can be used in the following environments:
 
