@@ -2,7 +2,7 @@
   "bugs": {
     "url": "https://github.com/BitxorCorp/bitxor-datanet-service-typescript-fetch-client"
   },
-  "description": "OpenAPI client for http://gitlab.local.bitxor.org/bitxor/bitxor-datanet",
+  "description": "OpenAPI client for https://github.com/BitxorCorp/bitxor-datanet",
   "devDependencies": {
     "typescript": "^3.6"
   },
