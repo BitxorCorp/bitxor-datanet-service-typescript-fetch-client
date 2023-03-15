@@ -1,0 +1,23 @@
+{
+  "bugs": {
+    "url": "https://github.com/BitxorCorp/bitxor-datanet-service-typescript-fetch-client"
+  },
+  "description": "OpenAPI client for http://gitlab.local.bitxor.org/bitxor/bitxor-datanet",
+  "devDependencies": {
+    "typescript": "^3.6"
+  },
+  "homepage": "https://github.com/BitxorCorp/bitxor-datanet-service-typescript-fetch-client",
+  "main": "./dist/index.js",
+  "name": "bitxor-datanet-service-typescript-fetch-client",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitxorCorp/bitxor-datanet-service-typescript-fetch-client.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "watch": "tsc -w"
+  },
+  "typings": "./dist/index.d.ts",
+  "version": "1.0.1"
+}
